@@ -1,0 +1,88 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A4849FC-78AA-4201-98E3-6CA893A9C64C",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8.359375041796875,
+    "width": 7.976562539882813,
+    "x": 3.519531267597656,
+    "y": 11.01562505507812
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.77326150832517138, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.77326150832517138, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.77326150832517138, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.20763956904995104, 0.90093457943925215}",
+      "curveMode": 4,
+      "curveTo": "{0, 0.73785046728971948}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0, 0.73785046728971948}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.71890303623898144, 0.7009345794392523}",
+      "curveMode": 4,
+      "curveTo": "{0.45837414299706164, 0.98785046728971948}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.71253672869735551, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.21635514018691593}",
+      "curveMode": 4,
+      "curveTo": "{0.81831537708129276, 0.42803738317757017}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{1, 0.21635514018691593}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

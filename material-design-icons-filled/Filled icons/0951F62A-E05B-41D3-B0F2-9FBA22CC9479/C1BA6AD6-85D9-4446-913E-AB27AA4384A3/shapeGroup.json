@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1BA6AD6-85D9-4446-913E-AB27AA4384A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF28CAF4-1A4C-40CF-B56B-99B17CBB4BB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C73F7BD1-79D5-47AE-B0BE-5641940BC417",
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ACA4F56A-096D-4BFA-9B46-3B43B1058DF5"
+    },
+    {
+      "class": "shapePath",
+      "id": "1CB55BC6-44E5-474A-9646-184A4C4821B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "22FF8EB6-A7FA-4693-A93C-74C538CAC031"
+    },
+    {
+      "class": "shapePath",
+      "id": "3663B7C4-E19A-495E-BF72-A80FEB769FCE"
+    }
+  ],
+  "name": "icon/maps/zoom_out_map_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06F05676-D32E-4B2A-99F6-9F799F6BBA42",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5817C169-F708-4CFE-9CE8-18DABE070A5F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 371,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DFC45DB-9BDE-4A15-A533-D43937EBE079",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51AAB6BF-F8E9-4350-BE8C-95F9E5FB336B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B11B6922-986B-46E6-8815-87EEF05EC93B",
+    "height": 24,
+    "width": 24,
+    "x": 2216,
+    "y": 517
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "79631842-A46E-4323-9A35-19DA157E884F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "10FA8C52-488C-4B2D-B05E-3EB6D35C909E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04E7CACE-16A1-4385-B4E4-75D02E520E2F"
+    }
+  ],
+  "name": "icon/places/fitness_center_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97E59BFE-F038-4AE0-93CB-5DA005132992",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B067CA5-213E-4C11-93E6-C8F9513DEAE9",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "51DBFA7F-7275-4C51-AD4E-19143533FEE4",
+      "colorLib": "EA9A3456-D205-45BC-B018-87FAFB3282A4",
+      "padding": 0,
+      "source": "symbol"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/places/fitness_center_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "71695DA8-2996-4AEB-8569-99336F502334",
+    "guides": [
+    ]
+  }
+}

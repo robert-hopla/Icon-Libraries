@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BE44DA5-AA03-4EE6-9189-F3B87CAAB26D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC989FDD-95FB-4697-B16F-5179F15F04B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B265DAD5-6118-449C-B548-CD97E743DBB9",
+    "height": 18,
+    "width": 16.5,
+    "x": 3.75,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FC182885-FD81-46D4-981C-F1DE4EA18C62"
+    },
+    {
+      "class": "shapePath",
+      "id": "26939CFA-0420-45B8-A1E9-BF143969B4C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "9612370F-146E-41FB-9C04-7F072E55BB32"
+    }
+  ],
+  "name": "icon/maps/ev_station_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "064E63E9-8D5E-43E7-904C-C0AFC5C46730",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A8F6BAE5-9E71-4852-9DBE-49DAEC5A9038",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 500,
+  "clippingMaskMode": 0,
+  "do_objectID": "18ABF028-E9B6-43EC-91C6-D74BC595A51B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7611C93F-221E-4391-AC7C-BB30C2652B55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF792D56-347E-4D48-B760-4D0F40149AF3",
+    "height": 24,
+    "width": 24,
+    "x": 1563,
+    "y": 37
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "777E99A1-C2CB-46C4-9173-B12C971D0CCF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33ABB68D-BFB8-4F4C-813B-23DE42E27997"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC2CE704-4C2D-4FAB-843C-B3AAD271D38D"
+    }
+  ],
+  "name": "icon/image/dehaze_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A690AC7A-E620-4335-8CCD-C7C8C1FFE6F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9834603A-4878-4CDA-9D12-E570AFC19423",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "51DBFA7F-7275-4C51-AD4E-19143533FEE4",
+      "colorLib": "EA9A3456-D205-45BC-B018-87FAFB3282A4",
+      "padding": 0,
+      "source": "symbol"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/image/dehaze_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "47EF2B2A-3B1F-4772-8F35-099CF8FF1529",
+    "guides": [
+    ]
+  }
+}

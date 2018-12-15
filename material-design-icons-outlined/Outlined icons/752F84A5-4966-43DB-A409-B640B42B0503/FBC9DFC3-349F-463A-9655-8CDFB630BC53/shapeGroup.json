@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBC9DFC3-349F-463A-9655-8CDFB630BC53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8D7CCC9-2A53-4FEA-A55F-97AD146AC353",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FC60E21D-BE5B-492D-BD89-BDE13163EA9F",
+    "height": 20,
+    "width": 16,
+    "x": 4,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1C3513B8-B23E-41B2-A643-F841178F4D00"
+    },
+    {
+      "class": "shapePath",
+      "id": "F4FA91D5-4051-41E0-ABB2-F72CEAB0591A"
+    },
+    {
+      "class": "shapePath",
+      "id": "0B97531D-F2B8-4F31-A949-373BB7875B2E"
+    }
+  ],
+  "name": "icon/device/bluetooth_disabled_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7509A632-2050-412A-BEBB-D1D58B204671",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

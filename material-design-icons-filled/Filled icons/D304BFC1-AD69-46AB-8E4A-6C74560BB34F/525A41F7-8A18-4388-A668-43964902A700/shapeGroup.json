@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "525A41F7-8A18-4388-A668-43964902A700",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F9F6478-E298-4494-B63E-B46B3E6DD5F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A023E648-F577-4A7B-88FE-1DA4357529C5",
+    "height": 20,
+    "width": 16,
+    "x": 4,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "884B4F18-E374-4EC6-9979-84B1B810F2C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "BE604F66-ECC1-4F60-A3B9-6C2BDF3EBEEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A33EAE4-CC4B-4BC0-A5FD-15A518829111"
+    }
+  ],
+  "name": "icon/notification/sd_card_alert_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81E64657-B861-401C-AC6C-9976B73F6224",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

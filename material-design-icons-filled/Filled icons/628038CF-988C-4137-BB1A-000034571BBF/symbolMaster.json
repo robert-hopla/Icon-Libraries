@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E4F7334A-F0F9-4DDC-AA5F-B4066C1AB32F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 421,
+  "clippingMaskMode": 0,
+  "do_objectID": "628038CF-988C-4137-BB1A-000034571BBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8CBC968E-306E-4230-A6F0-A2802D716D51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE594651-FADD-450B-9F76-527878FD90AB",
+    "height": 24,
+    "width": 24,
+    "x": 1563,
+    "y": 997
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A1F8FD34-B5B7-40B1-BF69-1CC7BAD5CF8E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "81220C83-54FB-4567-B899-E01D2951B7D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22F5E5AA-C4C6-44DE-ABF7-1DEA201E862C"
+    }
+  ],
+  "name": "icon/maps/satellite_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B023C592-0A05-41A9-B747-998371ADDE93",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "13B3A213-094C-4B24-9FD0-48EC1D8D22EB",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "51DBFA7F-7275-4C51-AD4E-19143533FEE4",
+      "colorLib": "EA9A3456-D205-45BC-B018-87FAFB3282A4",
+      "padding": 0,
+      "source": "symbol"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/maps/satellite_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D1FBDC30-21CC-45D7-925C-F0AE6233A505",
+    "guides": [
+    ]
+  }
+}

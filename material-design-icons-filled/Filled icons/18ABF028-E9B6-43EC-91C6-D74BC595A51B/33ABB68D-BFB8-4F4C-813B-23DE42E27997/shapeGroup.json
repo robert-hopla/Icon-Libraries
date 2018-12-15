@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "33ABB68D-BFB8-4F4C-813B-23DE42E27997",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D4323E9-50E1-4E11-AC8B-C3F3AE2FED51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E066F362-D86E-4EE9-8C35-519AEBB73073",
+    "height": 12,
+    "width": 20,
+    "x": 2,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "24073672-8E47-4B5A-B04F-D9BAC30A6D2C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB111D00-DD9E-4852-87D3-89A38A7C1261"
+    },
+    {
+      "class": "shapePath",
+      "id": "D21CA2E6-B8A3-4A37-A0B5-0F6BC7EE52D2"
+    }
+  ],
+  "name": "icon/image/dehaze_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5901F422-1807-4C2A-9649-0CD06122C568",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

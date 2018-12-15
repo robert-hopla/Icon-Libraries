@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0B18C10-596B-4D35-A189-FADB09D55297",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E501A64-8134-43F1-8A86-9475F5E20CF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BC0B5F7E-ED15-4712-9A80-E88416C25C6F",
+    "height": 21,
+    "width": 24,
+    "x": 0,
+    "y": 1.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A5F1F8AA-3533-4896-B2E4-C23A8979A2F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "7FE50F6F-2109-43C2-904D-F470BF16D4CE"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D6CD946-6993-41F3-9D46-5D902D7311B3"
+    }
+  ],
+  "name": "icon/editor/format_color_text_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E145D9D-C1DE-435D-8FC4-A71982F0EB9F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.36,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

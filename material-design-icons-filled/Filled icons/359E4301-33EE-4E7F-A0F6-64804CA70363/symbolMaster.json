@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D52A0FC5-D409-40DC-A56B-ACF6D0E520D8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 411,
+  "clippingMaskMode": 0,
+  "do_objectID": "359E4301-33EE-4E7F-A0F6-64804CA70363",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "299006D4-B7BD-4F9A-AA92-FC902799F2C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2270CBC2-8DFF-4A46-8DE0-39115E2D1E80",
+    "height": 24,
+    "width": 24,
+    "x": 1371,
+    "y": 949
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45CD33FB-D1AA-4BCC-A2C4-AC5A83C41B44",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "01630D97-7229-4617-91C8-DDBE6C51EF88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A3F47CC-CBD6-474C-8B54-34134BC1B730"
+    }
+  ],
+  "name": "icon/maps/local_taxi_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE91BC0E-7417-45CF-82AB-493874050D01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "32BA3500-6C5E-470E-B841-1EC42DB8DA7F",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "51DBFA7F-7275-4C51-AD4E-19143533FEE4",
+      "colorLib": "EA9A3456-D205-45BC-B018-87FAFB3282A4",
+      "padding": 0,
+      "source": "symbol"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/maps/local_taxi_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A7693C90-3FD6-4D5A-8C57-63CC7ED9AC56",
+    "guides": [
+    ]
+  }
+}

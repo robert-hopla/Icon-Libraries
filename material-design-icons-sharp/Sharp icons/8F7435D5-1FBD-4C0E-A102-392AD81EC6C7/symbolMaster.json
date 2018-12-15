@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E596B1C7-4D9C-4094-AE29-D09A1D495511",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 151,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F7435D5-1FBD-4C0E-A102-392AD81EC6C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D5864F9-A6D3-4A71-A00A-70839AF3E2E4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "_sharp",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF3D5DB4-5E44-41AC-AE5D-0FF02C92EB9E",
+    "height": 24,
+    "width": 24,
+    "x": 885,
+    "y": 771
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E8E5280-419A-476A-919E-17896DEF2BCB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BF4741A7-62AC-4893-AC11-79DC90E7DFEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B147C389-DBA6-49D2-A285-39DC27C1FA24"
+    }
+  ],
+  "name": "icon/maps/terrain_24px",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "455239CF-DEC6-4A19-8B74-A28499DEDAC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "455670F5-F5E6-42A2-95E4-8EC1C08C425D",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "51DBFA7F-7275-4C51-AD4E-19143533FEE4",
+      "colorLib": "EA9A3456-D205-45BC-B018-87FAFB3282A4",
+      "source": "symbol"
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "SHARP",
+      "symbolName": "icon/maps/terrain_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C3996452-77F6-47D4-8049-89305D0D3885",
+    "guides": [
+    ]
+  }
+}

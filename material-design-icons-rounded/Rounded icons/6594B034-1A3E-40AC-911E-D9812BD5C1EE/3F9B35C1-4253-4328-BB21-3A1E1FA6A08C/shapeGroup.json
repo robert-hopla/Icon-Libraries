@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F9B35C1-4253-4328-BB21-3A1E1FA6A08C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE1D3CC6-B680-4782-983C-A116D185CCD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8E3A45FC-C386-44CC-9D67-98EE7F3DBDAC",
+    "height": 16,
+    "width": 15,
+    "x": 4.5,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C9093C72-1825-4F5D-AE02-5EDAA2E72C7D"
+    },
+    {
+      "class": "shapePath",
+      "id": "99052D43-D392-4C2E-97B8-526D2C7F70BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "75ED43FF-379E-450E-9F1F-6740B10C6500"
+    }
+  ],
+  "name": "icon/device/signal_cellular_alt_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "629CC4F2-8842-45E6-A029-8D0935F80FD8",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

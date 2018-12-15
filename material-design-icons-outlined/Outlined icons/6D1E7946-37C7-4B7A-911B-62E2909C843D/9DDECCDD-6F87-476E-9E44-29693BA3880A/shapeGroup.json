@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DDECCDD-6F87-476E-9E44-29693BA3880A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1601B9E7-799E-4824-96EA-B031CAA5B2B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C05A1803-AC18-46C6-B9B6-D900F2416033",
+    "height": 21,
+    "width": 22,
+    "x": 1,
+    "y": 1.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9B52785C-CCE2-4935-8026-911EDF98D3DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0FFCE9F-2859-4655-BC02-0E80BC9A448A"
+    },
+    {
+      "class": "shapePath",
+      "id": "C4E9D9B6-070B-4450-A172-BC9728E155AE"
+    }
+  ],
+  "name": "icon/notification/network_locked_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE86716B-E230-4873-8E13-DBE0DD8FADE1",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

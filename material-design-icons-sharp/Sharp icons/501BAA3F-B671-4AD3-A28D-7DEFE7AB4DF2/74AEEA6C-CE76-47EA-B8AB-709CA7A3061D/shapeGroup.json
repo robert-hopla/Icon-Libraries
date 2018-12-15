@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "74AEEA6C-CE76-47EA-B8AB-709CA7A3061D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45DF3B28-F374-43D3-9644-FD633D58E83E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "700BCBCC-DA6F-40A4-97BB-454B583ABCD0",
+    "height": 21,
+    "width": 18,
+    "x": 3,
+    "y": 1.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0DA85498-3D7B-48C7-9F11-F13D2504DA43"
+    },
+    {
+      "class": "shapePath",
+      "id": "4BEEFCBE-79CE-4974-B557-9C89F1726F84"
+    },
+    {
+      "class": "shapePath",
+      "id": "D616E070-829B-49A4-A0C0-AA63ABFD4F77"
+    }
+  ],
+  "name": "icon/maps/person_pin_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "692BFA24-5DAE-494B-AB43-637C0848A442",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

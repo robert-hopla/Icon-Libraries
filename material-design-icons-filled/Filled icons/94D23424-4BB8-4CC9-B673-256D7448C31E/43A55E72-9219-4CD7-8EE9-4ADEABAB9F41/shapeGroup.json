@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "43A55E72-9219-4CD7-8EE9-4ADEABAB9F41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "751B49DC-E321-48DA-9B9F-4563A28A625A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E987BE3-8649-48BD-97A5-CE4786326BD4",
+    "height": 18.65,
+    "width": 20,
+    "x": 2,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E717240E-FC14-4ADD-B53B-09609A47FBAA"
+    },
+    {
+      "class": "shapePath",
+      "id": "129DB4D4-3FA7-4CBC-9D6A-A5572E13F67B"
+    },
+    {
+      "class": "shapePath",
+      "id": "810FBAC5-654F-4DC9-AFAD-A01E5D4F4114"
+    }
+  ],
+  "name": "icon/device/wifi_tethering_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60C4A213-D5DC-4A46-B5A9-005EDE73A751",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

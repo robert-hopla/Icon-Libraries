@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "97E498B4-7BE1-46E6-86FA-B12CA8B7DA4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5CD4BD6-7374-442C-A9E5-68814A4A5B8A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "094FA7C1-8876-4D7C-A6CD-76EE1251992E",
+    "height": 20,
+    "width": 16,
+    "x": 4,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "04372076-E182-408B-BCB5-FD0F5386009C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BD5C42A4-2F4D-43BE-9CDE-B37C95C7AE03"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB2DE753-5027-41EE-AD95-282E9B9FB027"
+    }
+  ],
+  "name": "icon/maps/directions_railway_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4B70587-0434-4549-B691-72084DDF9510",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

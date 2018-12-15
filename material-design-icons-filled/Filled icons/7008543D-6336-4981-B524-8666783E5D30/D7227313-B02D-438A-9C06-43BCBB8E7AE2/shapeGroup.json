@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7227313-B02D-438A-9C06-43BCBB8E7AE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C76C7BC-6813-4745-844C-74476BEEF6FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D7E3DA0B-B4C3-4E20-9BE1-01451FE31E6B",
+    "height": 20,
+    "width": 10,
+    "x": 7,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2A12B998-B8C9-4BAD-942C-214DADB14457"
+    },
+    {
+      "class": "shapePath",
+      "id": "6550F35B-193C-451B-819B-D44AB98FD5D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "5736B4AD-1808-4D9C-8517-76594AF6E6E5"
+    }
+  ],
+  "name": "icon/device/battery_unknown_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7896B737-1562-45FF-BC72-E416AF615160",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

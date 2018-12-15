@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC7E6B73-A0A8-4F47-AF43-70BCD8013B67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F37FDC2-FB1D-45FC-96BF-1BAD3583245B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0FA28C11-7353-4175-94D8-894B46129ACF",
+    "height": 20,
+    "width": 24,
+    "x": 0,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "463FD905-33E6-4042-846A-C5814AE0E340"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A45E684-B9F4-407A-B463-658D0EBB088F"
+    },
+    {
+      "class": "shapePath",
+      "id": "03DECC0B-7162-4CD2-881B-274D6E9AB5D1"
+    }
+  ],
+  "name": "icon/device/wifi_lock_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55C56F18-0E6C-4CBE-95A4-B4823DA2DE41",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}
